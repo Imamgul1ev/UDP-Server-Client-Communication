@@ -18,28 +18,5 @@ This repository demonstrates a simple UDP server and client implementation using
 
 - Python 3.x (no external dependencies, uses the built-in `socket` module)
 
-## Project Structure
-
-/project │ ├── UDP_server_client.py # Combined UDP server and client code
-
-
-## Setup and Usage
-
-### 1. Clone the repository
-
-Start by cloning this repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/udp-server-client.git
-
-2. Navigate to the project directory
-Move into the project directory:
-
-cd udp-server-client
-3. Run the Combined Code
-Run the combined UDP server-client code in one terminal:
-
-python UDP_server_client.py
-The script will first start the server, wait for a client message, then handle the communication between the server and client.
 
 
